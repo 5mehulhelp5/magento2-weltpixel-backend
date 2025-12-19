@@ -5,7 +5,7 @@
 With composer:
 
 ```sh
-$ composer config repositories.welpixel-magento2-weltpixel-backend git https://github.com/Weltpixel/magento2-weltpixel-backend.git
+$ composer config repositories.weltpixel-magento2-weltpixel-backend git https://github.com/Weltpixel/magento2-weltpixel-backend.git
 $ composer require weltpixel/magento2-weltpixel-backend:dev-master
 ```
 
